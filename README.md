@@ -75,15 +75,21 @@ $ whoami
 <details open>
 <summary><b>🚀 Open-Source Linux & Desktop Tools</b></summary><br>
 
-- 🎧 [**Galaxy Buds3 Pro - Ubuntu & Android Seamless Switcher (`galaxy-buds-ubuntu`)**](https://github.com/pulkitmundra/galaxy-buds-ubuntu)<br>
-  *Native **GNOME Quick Settings** extension and CLI switcher for Samsung Galaxy Buds3 Pro on Ubuntu 24.04+ (GNOME 45-48).*
-  - Connects Classic `BR/EDR` profiles (`A2DP Sink`, `AVRCP`, `HFP`) over BlueZ D-Bus and auto-routes PipeWire (`wpctl`) audio.
-  - Instant bidirectional handoff between Ubuntu and Android via MacroDroid webhooks + integrated **GalaxyBudsClient** launcher.
-
-- 🎬 [**Crunchyroll Ubuntu Desktop - Mouse, Trackpad & Smart Auto-PiP Edition (`crunchyroll-ubuntu-desktop`)**](https://github.com/pulkitmundra/crunchyroll-ubuntu-desktop)<br>
+- 🎬 [**Crunchyroll Ubuntu Desktop - Mouse, Trackpad & Smart Auto-PiP Edition (`crunchyroll-ubuntu-desktop`)**](https://github.com/pulkitmundra/crunchyroll-ubuntu-desktop)
+  <a href="https://github.com/pulkitmundra/crunchyroll-ubuntu-desktop"><img src="https://img.shields.io/github/stars/pulkitmundra/crunchyroll-ubuntu-desktop?style=flat&color=F47521&label=Stars" alt="Stars" /></a>
+  <img src="https://img.shields.io/badge/Electron-Widevine%20DRM-47848F?style=flat&logo=electron&logoColor=white" alt="Electron Widevine" />
+  <img src="https://img.shields.io/badge/Ubuntu-X11%20%2F%20Wayland-E95420?style=flat&logo=ubuntu&logoColor=white" alt="Ubuntu" /><br>
   *Enhanced Linux desktop & HTPC client for Crunchyroll powered by Castlabs Electron (Widevine DRM).*
   - **Smart Auto-PiP Mini-Player (`F9` / `F10`)**: Automatically shrinks into a pinned `560x315` floating window when switching focus (`Alt + Tab`) and restores to full size in one step when returning.
   - **Full Desktop Ergonomics**: Synchronized cursor/HUD auto-hide, click-and-drag timeline scrubbing, smooth trackpad/wheel scrolling, hover-to-open sidebar, and live debounced search.
+
+- 🎧 [**Galaxy Buds3 Pro - Ubuntu & Android Seamless Switcher (`galaxy-buds-ubuntu`)**](https://github.com/pulkitmundra/galaxy-buds-ubuntu)
+  <a href="https://github.com/pulkitmundra/galaxy-buds-ubuntu"><img src="https://img.shields.io/github/stars/pulkitmundra/galaxy-buds-ubuntu?style=flat&color=38BDF8&label=Stars" alt="Stars" /></a>
+  <img src="https://img.shields.io/badge/GNOME%20Shell-45--48-4A86CF?style=flat&logo=gnome&logoColor=white" alt="GNOME Shell" />
+  <img src="https://img.shields.io/badge/BlueZ%20D--Bus-PipeWire-0082FC?style=flat&logo=bluetooth&logoColor=white" alt="BlueZ PipeWire" /><br>
+  *Native **GNOME Quick Settings** extension and CLI switcher for Samsung Galaxy Buds3 Pro on Ubuntu 24.04+ (GNOME 45-48).*
+  - Connects Classic `BR/EDR` profiles (`A2DP Sink`, `AVRCP`, `HFP`) over BlueZ D-Bus and auto-routes PipeWire (`wpctl`) audio.
+  - Instant bidirectional handoff between Ubuntu and Android via MacroDroid webhooks + integrated **GalaxyBudsClient** launcher.
 
 </details>
 
