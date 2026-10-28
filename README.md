@@ -6,7 +6,7 @@ $ whoami
 
 <p align="center">
   <a href="https://pulkit-mundra-portfolio.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=Senior+Software+%26+Backend+Engineer+%F0%9F%9A%80;Agentic+AI+%7C+MCP+Servers+%7C+RAG+%26+LLM+Pipelines+%F0%9F%A4%96;Python+%7C+Django+%7C+Flask+%7C+FastAPI+%7C+TypeScript+%F0%9F%90%8D;Fintech+Architecture+%26+Linux+Desktop+Tooling+%F0%9F%90%A7" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=Senior+Software+%26+Backend+Engineer+%F0%9F%9A%80;Agentic+AI+%7C+MCP+Servers+%7C+RAG+%26+LLM+Pipelines+%F0%9F%A4%96;Python+%7C+Django+%7C+Flask+%7C+GraphQL+%7C+Node.js+%F0%9F%90%8D;Fintech+Architecture+%26+Linux+Desktop+Tooling+%F0%9F%90%A7" alt="Typing SVG" />
   </a>
 </p>
 
@@ -47,7 +47,9 @@ $ whoami
 
 **AI & Automation:**<br>
 <img src="https://img.shields.io/badge/-Agentic%20AI-6366F1?logo=openai&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-MCP%20Servers-7C3AED?style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-LLMs%20%26%20RAG-10B981?style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-ChromaDB-F97316?style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-AI%20Automation%20%26%20Bots-8B5CF6?style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-OCR%20Pipelines-F59E0B?style=flat">&nbsp;
 
@@ -70,6 +72,13 @@ $ whoami
 <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat">&nbsp;
 
+**Linux & Desktop Systems:**<br>
+<img src="https://img.shields.io/badge/-Electron-47848F?logo=electron&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Widevine%20DRM-2563EB?style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-GNOME%20Shell%20Extension-4A86CF?logo=gnome&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-BlueZ%20D--Bus-0082FC?logo=bluetooth&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-PipeWire-0D9488?style=flat">&nbsp;
+
 ---
 
 <details open>
@@ -77,17 +86,19 @@ $ whoami
 
 - 🎬 [**Crunchyroll Ubuntu Desktop - Mouse, Trackpad & Smart Auto-PiP Edition (`crunchyroll-ubuntu-desktop`)**](https://github.com/pulkitmundra/crunchyroll-ubuntu-desktop)
   <a href="https://github.com/pulkitmundra/crunchyroll-ubuntu-desktop"><img src="https://img.shields.io/github/stars/pulkitmundra/crunchyroll-ubuntu-desktop?style=flat&color=F47521&label=Stars" alt="Stars" /></a>
+  <a href="https://pulkit-mundra-portfolio.vercel.app/projects/crunchyroll-ubuntu-desktop"><img src="https://img.shields.io/badge/Case%20Study-Portfolio-10B981?style=flat&logo=vercel&logoColor=white" alt="Case Study" /></a>
   <img src="https://img.shields.io/badge/Electron-Widevine%20DRM-47848F?style=flat&logo=electron&logoColor=white" alt="Electron Widevine" />
   <img src="https://img.shields.io/badge/Ubuntu-X11%20%2F%20Wayland-E95420?style=flat&logo=ubuntu&logoColor=white" alt="Ubuntu" /><br>
-  *Enhanced Linux desktop & HTPC client for Crunchyroll powered by Castlabs Electron (Widevine DRM).*
+  *Enhanced Linux desktop & HTPC client for Crunchyroll powered by Castlabs Electron (Widevine DRM).* - [**Case Study ->**](https://pulkit-mundra-portfolio.vercel.app/projects/crunchyroll-ubuntu-desktop)
   - **Smart Auto-PiP Mini-Player (`F9` / `F10`)**: Automatically shrinks into a pinned `560x315` floating window when switching focus (`Alt + Tab`) and restores to full size in one step when returning.
   - **Full Desktop Ergonomics**: Synchronized cursor/HUD auto-hide, click-and-drag timeline scrubbing, smooth trackpad/wheel scrolling, hover-to-open sidebar, and live debounced search.
 
 - 🎧 [**Galaxy Buds3 Pro - Ubuntu & Android Seamless Switcher (`galaxy-buds-ubuntu`)**](https://github.com/pulkitmundra/galaxy-buds-ubuntu)
   <a href="https://github.com/pulkitmundra/galaxy-buds-ubuntu"><img src="https://img.shields.io/github/stars/pulkitmundra/galaxy-buds-ubuntu?style=flat&color=38BDF8&label=Stars" alt="Stars" /></a>
+  <a href="https://pulkit-mundra-portfolio.vercel.app/projects/galaxy-buds-ubuntu-switcher"><img src="https://img.shields.io/badge/Case%20Study-Portfolio-10B981?style=flat&logo=vercel&logoColor=white" alt="Case Study" /></a>
   <img src="https://img.shields.io/badge/GNOME%20Shell-45--48-4A86CF?style=flat&logo=gnome&logoColor=white" alt="GNOME Shell" />
   <img src="https://img.shields.io/badge/BlueZ%20D--Bus-PipeWire-0082FC?style=flat&logo=bluetooth&logoColor=white" alt="BlueZ PipeWire" /><br>
-  *Native **GNOME Quick Settings** extension and CLI switcher for Samsung Galaxy Buds3 Pro on Ubuntu 24.04+ (GNOME 45-48).*
+  *Native **GNOME Quick Settings** extension and CLI switcher for Samsung Galaxy Buds3 Pro on Ubuntu 24.04+ (GNOME 45-48).* - [**Case Study ->**](https://pulkit-mundra-portfolio.vercel.app/projects/galaxy-buds-ubuntu-switcher)
   - Connects Classic `BR/EDR` profiles (`A2DP Sink`, `AVRCP`, `HFP`) over BlueZ D-Bus and auto-routes PipeWire (`wpctl`) audio.
   - Instant bidirectional handoff between Ubuntu and Android via MacroDroid webhooks + integrated **GalaxyBudsClient** launcher.
 
@@ -138,7 +149,7 @@ user@pulkitmundra:~$ cat /etc/system-release
 Name:          Pulkit Mundra
 Role:          Senior Software Developer (SDE-3)
 Tagline:       Shipping reliable AI automations and fintech backends
-Core Stack:    Python (Django, Flask, GraphQL), Agentic AI (LLMs, RAG, Bots), PostgreSQL, MongoDB, Redis, AWS
+Core Stack:    Python (Django, Flask, GraphQL), Agentic AI (LLMs, RAG, MCP Servers), Linux Desktop (Electron, GNOME, BlueZ, PipeWire), PostgreSQL, MongoDB, Redis, AWS
 Location:      Udaipur, India (Remote / Client-facing)
 Portfolio:     https://pulkit-mundra-portfolio.vercel.app
 ```
