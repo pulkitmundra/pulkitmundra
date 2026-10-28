@@ -85,7 +85,7 @@ $ whoami
 <summary><b>🚀 Open-Source Linux & Desktop Tools</b></summary><br>
 
 - 🎬 [**Crunchyroll Ubuntu Desktop - Mouse, Trackpad & Smart Auto-PiP Edition (`crunchyroll-ubuntu-desktop`)**](https://github.com/pulkitmundra/crunchyroll-ubuntu-desktop)
-  <a href="https://github.com/pulkitmundra/crunchyroll-ubuntu-desktop"><img src="https://img.shields.io/github/stars/pulkitmundra/crunchyroll-ubuntu-desktop?style=flat&color=F47521&label=Stars" alt="Stars" /></a>
+  <a href="https://github.com/pulkitmundra/crunchyroll-ubuntu-desktop"><img src="https://img.shields.io/github/stars/pulkitmundra/crunchyroll-ubuntu-desktop?style=flat&color=F47521&label=Stars&cacheSeconds=3600" alt="Stars" /></a>
   <a href="https://pulkit-mundra-portfolio.vercel.app/projects/crunchyroll-ubuntu-desktop"><img src="https://img.shields.io/badge/Case%20Study-Portfolio-10B981?style=flat&logo=vercel&logoColor=white" alt="Case Study" /></a>
   <img src="https://img.shields.io/badge/Electron-Widevine%20DRM-47848F?style=flat&logo=electron&logoColor=white" alt="Electron Widevine" />
   <img src="https://img.shields.io/badge/Ubuntu-X11%20%2F%20Wayland-E95420?style=flat&logo=ubuntu&logoColor=white" alt="Ubuntu" /><br>
@@ -94,7 +94,7 @@ $ whoami
   - **Full Desktop Ergonomics**: Synchronized cursor/HUD auto-hide, click-and-drag timeline scrubbing, smooth trackpad/wheel scrolling, hover-to-open sidebar, and live debounced search.
 
 - 🎧 [**Galaxy Buds3 Pro - Ubuntu & Android Seamless Switcher (`galaxy-buds-ubuntu`)**](https://github.com/pulkitmundra/galaxy-buds-ubuntu)
-  <a href="https://github.com/pulkitmundra/galaxy-buds-ubuntu"><img src="https://img.shields.io/github/stars/pulkitmundra/galaxy-buds-ubuntu?style=flat&color=38BDF8&label=Stars" alt="Stars" /></a>
+  <a href="https://github.com/pulkitmundra/galaxy-buds-ubuntu"><img src="https://img.shields.io/github/stars/pulkitmundra/galaxy-buds-ubuntu?style=flat&color=38BDF8&label=Stars&cacheSeconds=3600" alt="Stars" /></a>
   <a href="https://pulkit-mundra-portfolio.vercel.app/projects/galaxy-buds-ubuntu-switcher"><img src="https://img.shields.io/badge/Case%20Study-Portfolio-10B981?style=flat&logo=vercel&logoColor=white" alt="Case Study" /></a>
   <img src="https://img.shields.io/badge/GNOME%20Shell-45--48-4A86CF?style=flat&logo=gnome&logoColor=white" alt="GNOME Shell" />
   <img src="https://img.shields.io/badge/BlueZ%20D--Bus-PipeWire-0082FC?style=flat&logo=bluetooth&logoColor=white" alt="BlueZ PipeWire" /><br>
@@ -175,8 +175,8 @@ Senior Backend & AI Engineer. Building scalable systems, agentic tools, and open
 ---
 
 <p align="left">
-  <a href="https://github.com/pulkitmundra?tab=repositories"><img src="https://img.shields.io/github/stars/pulkitmundra?label=Star%20Gazers&style=social" alt="GitHub Stars"></a>&nbsp;
-  <a href="https://github.com/pulkitmundra"><img src="https://img.shields.io/github/followers/pulkitmundra?style=social" alt="GitHub Followers"></a>
+  <a href="https://github.com/pulkitmundra?tab=repositories"><img src="https://img.shields.io/github/stars/pulkitmundra?label=Star%20Gazers&style=social&cacheSeconds=3600" alt="GitHub Stars"></a>&nbsp;
+  <a href="https://github.com/pulkitmundra"><img src="https://img.shields.io/github/followers/pulkitmundra?style=social&cacheSeconds=3600" alt="GitHub Followers"></a>
 </p>
 
 <p align="center">
