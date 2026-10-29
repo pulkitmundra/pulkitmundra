@@ -25,10 +25,11 @@ $ whoami
 <img src="https://raw.githubusercontent.com/pulkitmundra/pulkitmundra/main/assets/dev-coding.gif" min-width="260px" max-width="260px" width="260px" align="right" alt="Developer Coding">
 
 ✨ **Senior Software Developer (SDE-3)** with **7+ years in Python**, specializing in **Django/Flask, Agentic AI, and Fintech Backends**.<br>
+🤖 Collaborated on frontier AI engineering for **Google (Gemini tool-use, 75+ MCP simulations, Google ADK plugins)** and **Meta (codebase reasoning)**.<br>
 🚀 I design robust **APIs, SDKs, and AI workflow automations** that scale - from **fintech payment platforms (Plaid, Sila, Dwolla, ACH)** to **LLM/RAG and agentic systems**.<br>
 ⚡ Explore my [**Portfolio**](https://pulkit-mundra-portfolio.vercel.app) or check out my [**Projects & Case Studies**](https://pulkit-mundra-portfolio.vercel.app/projects).<br>
 📫 Reach me at: [**pmundra8@gmail.com**](mailto:pmundra8@gmail.com) | [**LinkedIn**](https://www.linkedin.com/in/pulkit-mundra/) | [**WhatsApp**](https://wa.me/918769774277)<br>
-💬 Ask me about **Python, Django, Flask, Agentic AI, LLMs/RAG, Fintech Payment Integrations, Microservices, and AWS**.<br>
+💬 Ask me about **Python, Django, Flask, Agentic AI, MCP Servers, Google ADK, LLMs/RAG, Fintech Payment Integrations, and AWS**.<br>
 
 <br clear="both" />
 
@@ -40,6 +41,8 @@ $ whoami
 <img src="https://img.shields.io/badge/-Python%20(7%2B%20yrs)-3776AB?logo=python&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Pydantic%20v2-E92063?logo=pydantic&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-SQLModel-009688?style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Microservices-2563EB?style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Event--Driven-0D9488?style=flat">&nbsp;
@@ -48,13 +51,17 @@ $ whoami
 **AI & Automation:**<br>
 <img src="https://img.shields.io/badge/-Agentic%20AI-6366F1?logo=openai&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-MCP%20Servers-7C3AED?style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Google%20ADK-4285F4?logo=google&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-LLMs%20%26%20RAG-10B981?style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-LLM%20Evals%20%26%20Benchmarks-0EA5E9?style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-LiteLLM%20%26%20Gradio-FF7C00?style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-ChromaDB-F97316?style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-AI%20Automation%20%26%20Bots-8B5CF6?style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-OCR%20Pipelines-F59E0B?style=flat">&nbsp;
 
 **Databases, Cloud & DevOps:**<br>
 <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=flat">&nbsp;
@@ -107,9 +114,10 @@ $ whoami
 <details open>
 <summary><b>💼 Experience & Production Highlights</b></summary><br>
 
-- 🤖 **SDE-3 @ Turing (Meta & Google Engagements, 2025 - Present)**<br>
-  - Worked with **Meta** to enhance AI reasoning by analyzing complex codebases and optimizing AI-generated responses for contextual accuracy.
-  - Collaborating with **Google** to train **Gemini** to interact with 350+ applications and services (GitHub, Figma, Cursor, Slack, Jira) via MCP servers, embeddings, and multi-step workflows.
+- 🤖 **SDE-3 @ Turing (Google & Meta Engagements, 2025 - Present)**<br>
+  - **Agentic Tool-Use & MCP Architecture (Google):** Built stateful digital-twin simulations across **75+ services** (`Python`, `Pydantic v2`, `SQLModel/SQLite`) and reference **MCP ergonomic toolkits** that cut response payloads by **~88%**, reduced schema tokens by **~58%**, and improved tool-call accuracy by **+7.7pp** (**~99% solvability**).
+  - **Agent Plugins & Multi-Turn Benchmarks:** Developed cross-service **Google ADK** plugins with a streaming **Gradio** trace UI, plus containerized multi-turn systems benchmarks (**Docker/Pytest**) and A/B evaluation pipelines for frontier LLMs.
+  - **Code Reasoning & AI Velocity (Meta & Internal Tooling):** Enhanced LLM codebase reasoning across open-source Python ecosystems and authored reusable AI developer skills that cut per-service delivery from **days to hours**.
 - 🏥 **Senior Software Developer @ Cogent Infomedia (2024 - 2025)**<br>
   - Built an AI chatbot framework in Django to automate home-care workflows, cutting task completion time by **~50%**.
   - Led the AI team implementing localized LLMs, RAG knowledge systems, OCR pipelines, and EVV/payment integrations.
