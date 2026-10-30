@@ -12,6 +12,7 @@ $ whoami
 
 <p align="center">
   <a href="https://pulkit-mundra-portfolio.vercel.app">Portfolio</a> -
+  <a href="https://pulkit-mundra-portfolio.vercel.app/Pulkit-Mundra-Resume-Sr-Software-Dev.pdf">Resume (PDF)</a> -
   <a href="https://www.linkedin.com/in/pulkit-mundra/">LinkedIn</a> -
   <a href="https://pulkit-mundra-portfolio.vercel.app/projects">Projects</a> -
   <a href="https://pulkit-mundra-portfolio.vercel.app/#services">Services</a> -
@@ -24,7 +25,7 @@ $ whoami
 ### 👨🏻‍💻 **About Me**
 <img src="https://raw.githubusercontent.com/pulkitmundra/pulkitmundra/main/assets/dev-coding.gif" min-width="260px" max-width="260px" width="260px" align="right" alt="Developer Coding">
 
-✨ **Senior Software Developer (SDE-3)** with **7+ years in Python**, specializing in **Django/Flask, Agentic AI, and Fintech Backends**.<br>
+✨ **Senior Software Developer (SDE-3)** with **6+ years in Python**, specializing in **Django/Flask, Agentic AI, and Fintech Backends**.<br>
 🤖 Collaborated on frontier AI engineering for **Google (Gemini tool-use, 75+ MCP simulations, Google ADK plugins)** and **Meta (codebase reasoning)**.<br>
 🚀 I design robust **APIs, SDKs, and AI workflow automations** that scale - from **fintech payment platforms (Plaid, Sila, Dwolla, ACH)** to **LLM/RAG and agentic systems**.<br>
 ⚡ Explore my [**Portfolio**](https://pulkit-mundra-portfolio.vercel.app) or check out my [**Projects & Case Studies**](https://pulkit-mundra-portfolio.vercel.app/projects).<br>
@@ -38,7 +39,7 @@ $ whoami
 ### 🛠 **Tech Stack & Ecosystem**
 
 **Languages & Backend Frameworks:**<br>
-<img src="https://img.shields.io/badge/-Python%20(7%2B%20yrs)-3776AB?logo=python&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Python%20(6%2B%20yrs)-3776AB?logo=python&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Pydantic%20v2-E92063?logo=pydantic&logoColor=white&style=flat">&nbsp;
@@ -149,7 +150,7 @@ $ whoami
 <summary><b>📈 Catch up with Me (`$ cat /etc/system-release`)</b></summary><br>
 
 ![Role](https://img.shields.io/badge/Role-Senior%20Software%20Developer%20(SDE--3)-10B981)
-![Experience](https://img.shields.io/badge/Python-7%2B%20Years-3776AB)
+![Experience](https://img.shields.io/badge/Python-6%2B%20Years-3776AB)
 ![Focus](https://img.shields.io/badge/Focus-Agentic%20AI%20%26%20Fintech%20Backends-6366F1)
 
 ```yaml
