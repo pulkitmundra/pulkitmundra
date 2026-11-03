@@ -17,7 +17,13 @@ $ whoami
   <a href="https://pulkit-mundra-portfolio.vercel.app/projects">Projects</a> -
   <a href="https://pulkit-mundra-portfolio.vercel.app/#services">Services</a> -
   <a href="https://pulkit-mundra-portfolio.vercel.app/#testimonials">Testimonials</a> -
-  <a href="mailto:pmundra8@gmail.com?subject=Hiring%20inquiry%20-%20Pulkit%20Mundra">Hire Me</a>
+  <a href="mailto:pmundra8@gmail.com?subject=Hiring%20inquiry%20-%20Pulkit%20Mundra">Hire Me</a> -
+  <a href="https://buymeacoffee.com/pulkitmundra">☕ Buy Me a Coffee</a>
+</p>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/pulkitmundra"><img src="https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" /></a>&nbsp;
+  <a href="https://github.com/sponsors/pulkitmundra"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="GitHub Sponsors" /></a>
 </p>
 
 ---
@@ -94,12 +100,13 @@ $ whoami
 
 - 🎬 [**Crunchyroll Ubuntu Desktop - Mouse, Trackpad & Smart Auto-PiP Edition (`crunchyroll-ubuntu-desktop`)**](https://github.com/pulkitmundra/crunchyroll-ubuntu-desktop)
   <a href="https://github.com/pulkitmundra/crunchyroll-ubuntu-desktop"><img src="https://img.shields.io/github/stars/pulkitmundra/crunchyroll-ubuntu-desktop?style=flat&color=F47521&label=Stars&cacheSeconds=3600" alt="Stars" /></a>
+  <a href="https://snapcraft.io/crunchyroll-ubuntu-desktop"><img src="https://img.shields.io/badge/Snap_Store-v2.1.0-82BEA0?style=flat&logo=snapcraft&logoColor=white" alt="Snap Store" /></a>
   <a href="https://pulkit-mundra-portfolio.vercel.app/projects/crunchyroll-ubuntu-desktop"><img src="https://img.shields.io/badge/Case%20Study-Portfolio-10B981?style=flat&logo=vercel&logoColor=white" alt="Case Study" /></a>
   <img src="https://img.shields.io/badge/Electron-Widevine%20DRM-47848F?style=flat&logo=electron&logoColor=white" alt="Electron Widevine" />
   <img src="https://img.shields.io/badge/Ubuntu-X11%20%2F%20Wayland-E95420?style=flat&logo=ubuntu&logoColor=white" alt="Ubuntu" /><br>
-  *Enhanced Linux desktop & HTPC client for Crunchyroll powered by Castlabs Electron (Widevine DRM).* - [**Case Study ->**](https://pulkit-mundra-portfolio.vercel.app/projects/crunchyroll-ubuntu-desktop)
+  *Enhanced Linux desktop & HTPC client for Crunchyroll powered by Castlabs Electron (Widevine DRM).* - [**Snap Store ->**](https://snapcraft.io/crunchyroll-ubuntu-desktop) | [**Case Study ->**](https://pulkit-mundra-portfolio.vercel.app/projects/crunchyroll-ubuntu-desktop)
   - **Smart Auto-PiP Mini-Player (`F9` / `F10`)**: Automatically shrinks into a pinned `560x315` floating window when switching focus (`Alt + Tab`) and restores to full size in one step when returning.
-  - **Full Desktop Ergonomics**: Synchronized cursor/HUD auto-hide, click-and-drag timeline scrubbing, smooth trackpad/wheel scrolling, hover-to-open sidebar, and live debounced search.
+  - **Full Desktop Ergonomics (`v2.1.0`)**: GNOME MPRIS media keys, HUD-free frame capture (`Ctrl+Shift+S`), in-drawer season switcher, custom lists, watch history controls, and subtitle styling.
 
 - 🎧 [**Galaxy Buds3 Pro - Ubuntu & Android Seamless Switcher (`galaxy-buds-ubuntu`)**](https://github.com/pulkitmundra/galaxy-buds-ubuntu)
   <a href="https://github.com/pulkitmundra/galaxy-buds-ubuntu"><img src="https://img.shields.io/github/stars/pulkitmundra/galaxy-buds-ubuntu?style=flat&color=38BDF8&label=Stars&cacheSeconds=3600" alt="Stars" /></a>
@@ -174,6 +181,12 @@ Portfolio:     https://pulkit-mundra-portfolio.vercel.app
 <a href="mailto:pmundra8@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
+<a href="https://buymeacoffee.com/pulkitmundra">
+  <img src="https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
+</a>
+<a href="https://github.com/sponsors/pulkitmundra">
+  <img src="https://img.shields.io/badge/Sponsor_on_GitHub-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor on GitHub" />
+</a>
 
 ```bash
 $ uptime
@@ -193,6 +206,6 @@ Senior Backend & AI Engineer. Building scalable systems, agentic tools, and open
     <img alt="Email Pulkit Mundra" src="https://raw.githubusercontent.com/pulkitmundra/pulkitmundra/main/assets/mail.gif" align="left" />
   </a>
   Want to collaborate on <b>Agentic AI, Backend/Fintech Systems, or Open-Source</b>? -> <a href="https://pulkit-mundra-portfolio.vercel.app/#contact"><b>Get in Touch</b></a><br>
-  <b>Show some ❤️ by starring the repositories below!</b>
+  <b>Show some ❤️ by starring the repositories below or <a href="https://buymeacoffee.com/pulkitmundra">buying me a coffee ☕</a>!</b>
 </p>
 <br clear="both" />
