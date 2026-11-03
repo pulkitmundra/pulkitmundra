@@ -108,14 +108,15 @@ $ whoami
   - **Smart Auto-PiP Mini-Player (`F9` / `F10`)**: Automatically shrinks into a pinned `560x315` floating window when switching focus (`Alt + Tab`) and restores to full size in one step when returning.
   - **Full Desktop Ergonomics (`v2.1.0`)**: GNOME MPRIS media keys, HUD-free frame capture (`Ctrl+Shift+S`), in-drawer season switcher, custom lists, watch history controls, and subtitle styling.
 
-- 🎧 [**Galaxy Buds3 Pro - Ubuntu & Android Seamless Switcher (`galaxy-buds-ubuntu`)**](https://github.com/pulkitmundra/galaxy-buds-ubuntu)
+- 🎧 [**Samsung Galaxy Buds - Ubuntu & Android Seamless Switcher (`galaxy-buds-ubuntu`)**](https://github.com/pulkitmundra/galaxy-buds-ubuntu)
   <a href="https://github.com/pulkitmundra/galaxy-buds-ubuntu"><img src="https://img.shields.io/github/stars/pulkitmundra/galaxy-buds-ubuntu?style=flat&color=38BDF8&label=Stars&cacheSeconds=3600" alt="Stars" /></a>
   <a href="https://pulkit-mundra-portfolio.vercel.app/projects/galaxy-buds-ubuntu-switcher"><img src="https://img.shields.io/badge/Case%20Study-Portfolio-10B981?style=flat&logo=vercel&logoColor=white" alt="Case Study" /></a>
+  <img src="https://img.shields.io/badge/Models-All%20Galaxy%20Buds-1428A0?style=flat&logo=samsung&logoColor=white" alt="All Samsung Galaxy Buds" />
   <img src="https://img.shields.io/badge/GNOME%20Shell-45--48-4A86CF?style=flat&logo=gnome&logoColor=white" alt="GNOME Shell" />
   <img src="https://img.shields.io/badge/BlueZ%20D--Bus-PipeWire-0082FC?style=flat&logo=bluetooth&logoColor=white" alt="BlueZ PipeWire" /><br>
-  *Native **GNOME Quick Settings** extension and CLI switcher for Samsung Galaxy Buds3 Pro on Ubuntu 24.04+ (GNOME 45-48).* - [**Case Study ->**](https://pulkit-mundra-portfolio.vercel.app/projects/galaxy-buds-ubuntu-switcher)
-  - Connects Classic `BR/EDR` profiles (`A2DP Sink`, `AVRCP`, `HFP`) over BlueZ D-Bus and auto-routes PipeWire (`wpctl`) audio.
-  - Instant bidirectional handoff between Ubuntu and Android via MacroDroid webhooks + integrated **GalaxyBudsClient** launcher.
+  *Universal **GNOME Quick Settings** extension, GTK4/Libadwaita setup GUI & CLI switcher for all Samsung Galaxy Buds (`Buds3 Pro`, `Buds3`, `Buds2 Pro`, `Buds2`, `Buds Pro`, `Buds FE`, `Buds Live`, `Buds+`) on Ubuntu 24.04+ (GNOME 45-48).* - [**Case Study ->**](https://pulkit-mundra-portfolio.vercel.app/projects/galaxy-buds-ubuntu-switcher)
+  - Connects Classic `BR/EDR` profiles (`A2DP Sink`, `AVRCP`, `HFP`) over BlueZ D-Bus, displays live battery `%` in Quick Settings, and switches `A2DP` (Music) <-> `HFP` (Call + Mic) via PipeWire (`wpctl`).
+  - Instant bidirectional handoff between Ubuntu and Android via MacroDroid webhooks + native 3-tab **GTK4 / Libadwaita Settings & Android Setup GUI** (`buds-settings`).
 
 </details>
 
