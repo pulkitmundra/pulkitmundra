@@ -102,30 +102,32 @@ $ whoami
 
 - 🎬 [**Crunchyroll Ubuntu Desktop - Mouse, Trackpad & Smart Auto-PiP Edition (`crunchyroll-ubuntu-desktop`)**](https://github.com/pulkitmundra/crunchyroll-ubuntu-desktop)
   <a href="https://github.com/pulkitmundra/crunchyroll-ubuntu-desktop"><img src="https://img.shields.io/github/stars/pulkitmundra/crunchyroll-ubuntu-desktop?style=flat&color=F47521&label=Stars&cacheSeconds=3600" alt="Stars" /></a>
-  <a href="https://snapcraft.io/crunchyroll-ubuntu-desktop"><img src="https://img.shields.io/badge/Snap_Store-v2.1.0-82BEA0?style=flat&logo=snapcraft&logoColor=white" alt="Snap Store" /></a>
+  <a href="https://snapcraft.io/crunchyroll-ubuntu-desktop"><img src="https://img.shields.io/github/v/release/pulkitmundra/crunchyroll-ubuntu-desktop?style=flat&logo=snapcraft&logoColor=white&label=Snap_Store&color=82BEA0&cacheSeconds=3600" alt="Snap Store Release" /></a>
   <a href="https://pulkit-mundra-portfolio.vercel.app/projects/crunchyroll-ubuntu-desktop"><img src="https://img.shields.io/badge/Case%20Study-Portfolio-10B981?style=flat&logo=vercel&logoColor=white" alt="Case Study" /></a>
   <img src="https://img.shields.io/badge/Electron-Widevine%20DRM-47848F?style=flat&logo=electron&logoColor=white" alt="Electron Widevine" />
   <img src="https://img.shields.io/badge/Ubuntu-X11%20%2F%20Wayland-E95420?style=flat&logo=ubuntu&logoColor=white" alt="Ubuntu" /><br>
-  *Enhanced Linux desktop & HTPC client for Crunchyroll powered by Castlabs Electron (Widevine DRM).* - [**Snap Store ->**](https://snapcraft.io/crunchyroll-ubuntu-desktop) | [**Case Study ->**](https://pulkit-mundra-portfolio.vercel.app/projects/crunchyroll-ubuntu-desktop)
-  - **Smart Auto-PiP Mini-Player (`F9` / `F10`)**: Automatically shrinks into a pinned `560x315` floating window when switching focus (`Alt + Tab`) and restores to full size in one step when returning.
-  - **Full Desktop Ergonomics (`v2.1.0`)**: GNOME MPRIS media keys, HUD-free frame capture (`Ctrl+Shift+S`), in-drawer season switcher, custom lists, watch history controls, and subtitle styling.
+  *Enhanced Linux desktop & HTPC client for Crunchyroll on Ubuntu, Debian, Fedora, Arch Linux & Steam Deck powered by Castlabs Electron (Widevine DRM).* - [**Snap Store ->**](https://snapcraft.io/crunchyroll-ubuntu-desktop) | [**Case Study ->**](https://pulkit-mundra-portfolio.vercel.app/projects/crunchyroll-ubuntu-desktop)
+  - **Smart Auto-PiP Mini-Player (`F9` / `F10`)**: Automatically shrinks into a pinned `560x315` floating window with subtitles when switching focus (`Alt + Tab`) and restores to full size in one step when returning.
+  - **Player & Discovery Upgrades (`v2.2.0`)**: In-Player Video Quality Selector (`Q`) with live `Auto 1080p` badge, Sleep Timer / Auto-Pause (`T`), Timeline Chapter Markers, `Ongoing`/`Completed` Airing Status + AniList countdowns, GNOME MPRIS media keys, HUD-free frame capture (`Ctrl+Shift+S`), season switcher, and custom Crunchylists.
 
 - 🎧 [**Samsung Galaxy Buds - Ubuntu & Android Seamless Switcher (`galaxy-buds-ubuntu`)**](https://github.com/pulkitmundra/galaxy-buds-ubuntu)
   <a href="https://github.com/pulkitmundra/galaxy-buds-ubuntu"><img src="https://img.shields.io/github/stars/pulkitmundra/galaxy-buds-ubuntu?style=flat&color=38BDF8&label=Stars&cacheSeconds=3600" alt="Stars" /></a>
+  <a href="https://github.com/pulkitmundra/galaxy-buds-ubuntu/releases/latest"><img src="https://img.shields.io/github/v/release/pulkitmundra/galaxy-buds-ubuntu?style=flat&logo=github&logoColor=white&label=Release&color=38BDF8&cacheSeconds=3600" alt="Latest Release" /></a>
   <a href="https://pulkit-mundra-portfolio.vercel.app/projects/galaxy-buds-ubuntu-switcher"><img src="https://img.shields.io/badge/Case%20Study-Portfolio-10B981?style=flat&logo=vercel&logoColor=white" alt="Case Study" /></a>
   <img src="https://img.shields.io/badge/Models-All%20Galaxy%20Buds-1428A0?style=flat&logo=samsung&logoColor=white" alt="All Samsung Galaxy Buds" />
   <img src="https://img.shields.io/badge/GNOME%20Shell-45--48-4A86CF?style=flat&logo=gnome&logoColor=white" alt="GNOME Shell" />
   <img src="https://img.shields.io/badge/BlueZ%20D--Bus-PipeWire-0082FC?style=flat&logo=bluetooth&logoColor=white" alt="BlueZ PipeWire" /><br>
-  *Universal **GNOME Quick Settings** extension, GTK4/Libadwaita setup GUI & CLI switcher for all Samsung Galaxy Buds (`Buds3 Pro`, `Buds3`, `Buds2 Pro`, `Buds2`, `Buds Pro`, `Buds FE`, `Buds Live`, `Buds+`) on Ubuntu 24.04+ (GNOME 45-48).* - [**Case Study ->**](https://pulkit-mundra-portfolio.vercel.app/projects/galaxy-buds-ubuntu-switcher)
+  *Universal **GNOME Quick Settings** extension, GTK4/Libadwaita setup GUI & CLI Bluetooth multipoint switcher for all Samsung Galaxy Buds (`Buds3 Pro`, `Buds3`, `Buds2 Pro`, `Buds2`, `Buds Pro`, `Buds FE`, `Buds Live`, `Buds+`) on Ubuntu 24.04+ (GNOME 45-48).* - [**Case Study ->**](https://pulkit-mundra-portfolio.vercel.app/projects/galaxy-buds-ubuntu-switcher)
   - Connects Classic `BR/EDR` profiles (`A2DP Sink`, `AVRCP`, `HFP`) over BlueZ D-Bus, displays live battery `%` in Quick Settings, and switches `A2DP` (Music) <-> `HFP` (Call + Mic) via PipeWire (`wpctl`).
   - Instant bidirectional handoff between Ubuntu and Android via MacroDroid webhooks + native 3-tab **GTK4 / Libadwaita Settings & Android Setup GUI** (`buds-settings`).
 
 - 📹 [**NVR Command Center (`nvr-command-center`)**](https://github.com/pulkitmundra/nvr-command-center)
   <a href="https://github.com/pulkitmundra/nvr-command-center"><img src="https://img.shields.io/github/stars/pulkitmundra/nvr-command-center?style=flat&color=10B981&label=Stars&cacheSeconds=3600" alt="Stars" /></a>
+  <a href="https://snapcraft.io/nvr-command-center"><img src="https://img.shields.io/github/v/release/pulkitmundra/nvr-command-center?style=flat&logo=snapcraft&logoColor=white&label=Snap_Store&color=82BEA0&cacheSeconds=3600" alt="Snap Store Release" /></a>
   <a href="https://pulkit-mundra-portfolio.vercel.app/projects/nvr-command-center"><img src="https://img.shields.io/badge/Case%20Study-Portfolio-10B981?style=flat&logo=vercel&logoColor=white" alt="Case Study" /></a>
   <img src="https://img.shields.io/badge/Rust-eframe%20%2F%20OpenGL-DEA584?style=flat&logo=rust&logoColor=black" alt="Rust OpenGL" />
   <img src="https://img.shields.io/badge/Cloud%20P2P%20%2B%20RTSP-Zero--Lag-007808?style=flat&logo=ffmpeg&logoColor=white" alt="Cloud P2P + RTSP" /><br>
-  *Ultra-low-latency GPU-accelerated **12+ camera NVR surveillance command center** built in **Native Rust (`eframe/egui` + OpenGL `glow`)** with built-in **Cloud P2P remote tunneling** (`~70 MB` RAM for 12 concurrent streams).* - [**Case Study ->**](https://pulkit-mundra-portfolio.vercel.app/projects/nvr-command-center)
+  *Ultra-low-latency GPU-accelerated **12+ camera NVR surveillance command center** built in **Native Rust (`eframe/egui` + OpenGL `glow`)** with built-in **Cloud P2P remote tunneling** (`~70 MB` RAM for 12 concurrent streams).* - [**Snap Store ->**](https://snapcraft.io/nvr-command-center) | [**Case Study ->**](https://pulkit-mundra-portfolio.vercel.app/projects/nvr-command-center)
   - **Instant `< 0.9s` Parallel Startup & `< 80ms` Live Sync**: Spawns 12+ native OS worker threads with zero-probe FFmpeg demuxing (`-fpsprobesize 0`) and Linux kernel pipe `ioctl(FIONREAD)` burst draining to eliminate multi-second TCP socket lag and inter-camera drift.
   - **Zero-Config Cloud P2P Remote Tunneling & GPU UV Zoom (`v2.1.0`)**: Native Rust Dahua/CP Plus/Amcrest Cloud P2P (`easy4ipcloud.com`) authenticated PTCP tunnel (`AES-256-OFB` + `PBKDF2-HMAC-SHA256`) that auto-switches when away from home Wi-Fi, plus `0.0%` CPU UV coordinate digital zoom/pan (`1x-5x`) and per-tile `SD <-> HD` & `Single <-> Grid` controls.
 
