@@ -45,55 +45,56 @@ $ whoami
 ### 🛠 **Tech Stack & Ecosystem**
 
 **Languages & Backend Frameworks:**<br>
-<img src="https://img.shields.io/badge/-Python%20(6%2B%20yrs)-3776AB?logo=python&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Pydantic%20v2-E92063?logo=pydantic&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-SQLModel-009688?style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Microservices-2563EB?style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Event--Driven-0D9488?style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Python%20(6%2B%20yrs)-3776AB?logo=python&logoColor=white&style=flat" alt="Python (6+ years)">&nbsp;
+<img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat" alt="Django">&nbsp;
+<img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat" alt="Flask">&nbsp;
+<img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat" alt="Node.js">&nbsp;
+<img src="https://img.shields.io/badge/-Pydantic%20v2-E92063?logo=pydantic&logoColor=white&style=flat" alt="Pydantic v2">&nbsp;
+<img src="https://img.shields.io/badge/-SQLModel-009688?style=flat" alt="SQLModel">&nbsp;
+<img src="https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat" alt="GraphQL">&nbsp;
+<img src="https://img.shields.io/badge/-Microservices-2563EB?style=flat" alt="Microservices">&nbsp;
+<img src="https://img.shields.io/badge/-Event--Driven-0D9488?style=flat" alt="Event-Driven Architecture">&nbsp;
+<img src="https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&style=flat" alt="Bash">&nbsp;
 
 **AI & Automation:**<br>
-<img src="https://img.shields.io/badge/-Agentic%20AI-6366F1?logo=openai&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-MCP%20Servers-7C3AED?style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Google%20ADK-4285F4?logo=google&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-LLMs%20%26%20RAG-10B981?style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-LLM%20Evals%20%26%20Benchmarks-0EA5E9?style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-LiteLLM%20%26%20Gradio-FF7C00?style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-ChromaDB-F97316?style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-AI%20Automation%20%26%20Bots-8B5CF6?style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-OCR%20Pipelines-F59E0B?style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Agentic%20AI-6366F1?logo=openai&logoColor=white&style=flat" alt="Agentic AI">&nbsp;
+<img src="https://img.shields.io/badge/-MCP%20Servers-7C3AED?style=flat" alt="MCP Servers">&nbsp;
+<img src="https://img.shields.io/badge/-Google%20ADK-4285F4?logo=google&logoColor=white&style=flat" alt="Google ADK">&nbsp;
+<img src="https://img.shields.io/badge/-LLMs%20%26%20RAG-10B981?style=flat" alt="LLMs and RAG">&nbsp;
+<img src="https://img.shields.io/badge/-LLM%20Evals%20%26%20Benchmarks-0EA5E9?style=flat" alt="LLM Evaluations and Benchmarks">&nbsp;
+<img src="https://img.shields.io/badge/-LiteLLM%20%26%20Gradio-FF7C00?style=flat" alt="LiteLLM and Gradio">&nbsp;
+<img src="https://img.shields.io/badge/-ChromaDB-F97316?style=flat" alt="ChromaDB">&nbsp;
+<img src="https://img.shields.io/badge/-AI%20Automation%20%26%20Bots-8B5CF6?style=flat" alt="AI Automation and Bots">&nbsp;
+<img src="https://img.shields.io/badge/-OCR%20Pipelines-F59E0B?style=flat" alt="OCR Pipelines">&nbsp;
 
 **Databases, Cloud & DevOps:**<br>
-<img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-AWS%20(EC2%2C%20S3%2C%20Lambda%2C%20SQS%2C%20SNS)-232F3E?logo=amazonwebservices&logoColor=FF9900&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Azure%20Functions-0078D4?logo=microsoftazure&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-CI%2FCD-2088FF?logo=githubactions&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat" alt="PostgreSQL">&nbsp;
+<img src="https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat" alt="SQLite">&nbsp;
+<img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat" alt="MongoDB">&nbsp;
+<img src="https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat" alt="Redis">&nbsp;
+<img src="https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=flat" alt="Microsoft SQL Server">&nbsp;
+<img src="https://img.shields.io/badge/-AWS%20(EC2%2C%20S3%2C%20Lambda%2C%20SQS%2C%20SNS)-232F3E?logo=amazonwebservices&logoColor=FF9900&style=flat" alt="AWS EC2, S3, Lambda, SQS, SNS">&nbsp;
+<img src="https://img.shields.io/badge/-Azure%20Functions-0078D4?logo=microsoftazure&logoColor=white&style=flat" alt="Azure Functions">&nbsp;
+<img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat" alt="Docker">&nbsp;
+<img src="https://img.shields.io/badge/-CI%2FCD-2088FF?logo=githubactions&logoColor=white&style=flat" alt="CI/CD GitHub Actions">&nbsp;
 
 **Fintech Payments, Testing & Tooling:**<br>
-<img src="https://img.shields.io/badge/-Plaid-000000?style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Sila-1E40AF?style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Dwolla-FF5A00?style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-First%20American-047857?style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Pytest-0A9EDC?logo=pytest&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Plaid-000000?style=flat" alt="Plaid">&nbsp;
+<img src="https://img.shields.io/badge/-Sila-1E40AF?style=flat" alt="Sila">&nbsp;
+<img src="https://img.shields.io/badge/-Dwolla-FF5A00?style=flat" alt="Dwolla">&nbsp;
+<img src="https://img.shields.io/badge/-First%20American-047857?style=flat" alt="First American">&nbsp;
+<img src="https://img.shields.io/badge/-Pytest-0A9EDC?logo=pytest&logoColor=white&style=flat" alt="Pytest">&nbsp;
+<img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat" alt="Postman">&nbsp;
+<img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat" alt="Git">&nbsp;
 
 **Linux & Desktop Systems:**<br>
-<img src="https://img.shields.io/badge/-Rust%20(Native%20GPU)-DEA584?logo=rust&logoColor=black&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-FFmpeg%20%2F%20RTSP-007808?logo=ffmpeg&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Electron-47848F?logo=electron&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Widevine%20DRM-2563EB?style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-GNOME%20Shell%20Extension-4A86CF?logo=gnome&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-BlueZ%20D--Bus-0082FC?logo=bluetooth&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-PipeWire-0D9488?style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Rust%20(Native%20GPU)-DEA584?logo=rust&logoColor=black&style=flat" alt="Rust Native GPU">&nbsp;
+<img src="https://img.shields.io/badge/-FFmpeg%20%2F%20RTSP-007808?logo=ffmpeg&logoColor=white&style=flat" alt="FFmpeg and RTSP">&nbsp;
+<img src="https://img.shields.io/badge/-Electron-47848F?logo=electron&logoColor=white&style=flat" alt="Electron">&nbsp;
+<img src="https://img.shields.io/badge/-Widevine%20DRM-2563EB?style=flat" alt="Widevine DRM">&nbsp;
+<img src="https://img.shields.io/badge/-GNOME%20Shell%20Extension-4A86CF?logo=gnome&logoColor=white&style=flat" alt="GNOME Shell Extension">&nbsp;
+<img src="https://img.shields.io/badge/-BlueZ%20D--Bus-0082FC?logo=bluetooth&logoColor=white&style=flat" alt="BlueZ D-Bus">&nbsp;
+<img src="https://img.shields.io/badge/-PipeWire-0D9488?style=flat" alt="PipeWire">&nbsp;
 
 ---
 
@@ -149,21 +150,22 @@ $ whoami
 ➡️ [**View full experience & case studies on my Portfolio...**](https://pulkit-mundra-portfolio.vercel.app/#experience)
 </details>
 
-<details>
-<summary><b>⚙️ GitHub Analytics & Streak Stats</b></summary><br>
+<details open>
+<summary><b>📊 Engineering Highlights & Impact</b></summary><br>
 
 <p align="center">
-  <img width="88%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pulkitmundra&theme=github_dark" alt="Profile Details" />
+  <a href="https://pulkit-mundra-portfolio.vercel.app/#experience"><img src="https://img.shields.io/badge/Agentic_AI-75%2B_Stateful_MCP_Servers-7C3AED?style=for-the-badge" alt="75+ Stateful MCP Servers" /></a>&nbsp;
+  <a href="https://pulkit-mundra-portfolio.vercel.app/#experience"><img src="https://img.shields.io/badge/Tool_Ergonomics---88%25_Payload_%7C_%2B7.7pp_Gemini_Accuracy-0EA5E9?style=for-the-badge" alt="-88% Payload and +7.7pp Gemini Accuracy" /></a>&nbsp;
+  <a href="https://pulkit-mundra-portfolio.vercel.app/projects"><img src="https://img.shields.io/badge/Linux_Store_Apps-3_Published_(Snap_%26_GNOME_Extensions)-10B981?style=for-the-badge" alt="3 Published Linux Store Apps on Snap Store and GNOME Extensions" /></a>&nbsp;
+  <a href="https://pulkit-mundra-portfolio.vercel.app"><img src="https://img.shields.io/badge/Experience-6%2B_Years_Production_Python_%26_Distributed_Systems-3776AB?style=for-the-badge" alt="6+ Years Production Python and Distributed Systems" /></a>
 </p>
 
-<p align="center">
-  <img width="44%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pulkitmundra&theme=github_dark" alt="GitHub Stats" />
-  <img width="44%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pulkitmundra&theme=github_dark" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=pulkitmundra&theme=github-dark&hide_border=true" alt="GitHub Streak Stats" />
-</p>
+| Metric | Production & Open-Source Impact |
+| :--- | :--- |
+| **`75+` Stateful MCP Servers** | Digital-twin tool-use environments (`Python`, `Pydantic v2`, `SQLModel/SQLite`) built for frontier LLM evaluation & training |
+| **`-88%` Payload / `+7.7pp` Gemini Accuracy** | Reference MCP ergonomic toolkits cutting schema tokens by `~58%` and raising multi-turn solvability to `~99%` |
+| **`3` Published Linux Store Apps** | Shipped & maintained on the official **Snap Store** (`crunchyroll-ubuntu-desktop`, `nvr-command-center`) and **GNOME Extensions Store** (`galaxy-buds-ubuntu`) |
+| **`6+` Years Production Python & Distributed Systems** | `30+` regulated fintech banking/ACH payment APIs (`Plaid`, `Sila`, `Dwolla`) + enterprise `Django`/`Flask`/`Node.js` & `AWS` backends |
 
 </details>
 
@@ -179,7 +181,7 @@ user@pulkitmundra:~$ cat /etc/system-release
 Name:          Pulkit Mundra
 Role:          Senior Software Developer (SDE-3)
 Tagline:       Shipping reliable AI automations and fintech backends
-Core Stack:    Python (Django, Flask, GraphQL), Agentic AI (LLMs, RAG, MCP Servers), Linux Desktop (Electron, GNOME, BlueZ, PipeWire), PostgreSQL, MongoDB, Redis, AWS
+Core Stack:    Python (Django, Flask, GraphQL), Node.js, Agentic AI (LLMs, RAG, MCP Servers), Linux Desktop (Rust, Electron, GNOME, BlueZ, PipeWire), PostgreSQL, MongoDB, Redis, AWS
 Location:      Udaipur, India (Remote / Client-facing)
 Portfolio:     https://pulkit-mundra-portfolio.vercel.app
 ```
