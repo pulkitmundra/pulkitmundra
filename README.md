@@ -6,7 +6,7 @@ $ whoami
 
 <p align="center">
   <a href="https://pulkit-mundra-portfolio.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=Senior+Software+%26+Backend+Engineer+%F0%9F%9A%80;Agentic+AI+%7C+MCP+Servers+%7C+RAG+%26+LLM+Pipelines+%F0%9F%A4%96;Python+%7C+Django+%7C+Flask+%7C+GraphQL+%7C+Node.js+%F0%9F%90%8D;Fintech+Architecture+%26+Linux+Desktop+Tooling+%F0%9F%90%A7" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=Senior+Software+%26+Backend+Engineer+%F0%9F%9A%80;Agentic+AI+%7C+MCP+Servers+%7C+RAG+%26+LLM+Pipelines+%F0%9F%A4%96;Python+%7C+Django+%7C+Flask+%7C+FastAPI+%7C+PostgreSQL+%F0%9F%90%8D;Fintech+Architecture+%26+Linux+Desktop+Tooling+%F0%9F%90%A7" alt="Typing SVG" />
   </a>
 </p>
 
@@ -37,7 +37,7 @@ $ whoami
 🚀 I design robust **APIs, SDKs, and AI workflow automations** that scale - from **fintech payment platforms ([Sila Money](https://www.silamoney.com/), Plaid, Dwolla, ACH)** and **AI home-care operations ([CareBravo](https://carebravo.com/))** to **LLM/RAG and agentic systems**.<br>
 ⚡ Explore my [**Portfolio**](https://pulkit-mundra-portfolio.vercel.app), read my [**Engineering Deep Dives**](https://pulkit-mundra-portfolio.vercel.app/engineering), or check out my [**Projects & Case Studies**](https://pulkit-mundra-portfolio.vercel.app/projects).<br>
 📫 Reach me at: [**pmundra8@gmail.com**](mailto:pmundra8@gmail.com) | [**LinkedIn**](https://www.linkedin.com/in/pulkit-mundra/) | [**WhatsApp**](https://wa.me/918769774277)<br>
-💬 Ask me about **Python, Django, Flask, Agentic AI, MCP Servers, Google ADK, LLMs/RAG, Fintech Payment Integrations, and AWS**.<br>
+💬 Ask me about **Python, Django, Flask, FastAPI, Agentic AI, MCP Servers, Google ADK, LLMs/RAG, Fintech Payment Integrations, and AWS**.<br>
 
 <br clear="both" />
 
@@ -49,7 +49,7 @@ $ whoami
 <img src="https://img.shields.io/badge/-Python%20(6%2B%20yrs)-3776AB?logo=python&logoColor=white&style=flat" alt="Python (6+ years)">&nbsp;
 <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat" alt="Django">&nbsp;
 <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat" alt="Flask">&nbsp;
-<img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat" alt="Node.js">&nbsp;
+<img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat" alt="FastAPI">&nbsp;
 <img src="https://img.shields.io/badge/-Pydantic%20v2-E92063?logo=pydantic&logoColor=white&style=flat" alt="Pydantic v2">&nbsp;
 <img src="https://img.shields.io/badge/-SQLModel-009688?style=flat" alt="SQLModel">&nbsp;
 <img src="https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat" alt="GraphQL">&nbsp;
@@ -89,11 +89,10 @@ $ whoami
 <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat" alt="Git">&nbsp;
 
 **Linux & Desktop Systems:**<br>
-<img src="https://img.shields.io/badge/-Rust%20(Native%20GPU)-DEA584?logo=rust&logoColor=black&style=flat" alt="Rust Native GPU">&nbsp;
+<img src="https://img.shields.io/badge/-Ubuntu%20%2F%20Snapcraft-E95420?logo=ubuntu&logoColor=white&style=flat" alt="Ubuntu and Snapcraft">&nbsp;
 <img src="https://img.shields.io/badge/-FFmpeg%20%2F%20RTSP-007808?logo=ffmpeg&logoColor=white&style=flat" alt="FFmpeg and RTSP">&nbsp;
-<img src="https://img.shields.io/badge/-Electron-47848F?logo=electron&logoColor=white&style=flat" alt="Electron">&nbsp;
+<img src="https://img.shields.io/badge/-Wayland%20%2F%20X11-F59E0B?style=flat" alt="Wayland and X11">&nbsp;
 <img src="https://img.shields.io/badge/-Widevine%20DRM-2563EB?style=flat" alt="Widevine DRM">&nbsp;
-<img src="https://img.shields.io/badge/-GNOME%20Shell%20Extension-4A86CF?logo=gnome&logoColor=white&style=flat" alt="GNOME Shell Extension">&nbsp;
 <img src="https://img.shields.io/badge/-BlueZ%20D--Bus-0082FC?logo=bluetooth&logoColor=white&style=flat" alt="BlueZ D-Bus">&nbsp;
 <img src="https://img.shields.io/badge/-PipeWire-0D9488?style=flat" alt="PipeWire">&nbsp;
 
@@ -106,9 +105,9 @@ $ whoami
   <a href="https://github.com/pulkitmundra/crunchyroll-ubuntu-desktop"><img src="https://img.shields.io/github/stars/pulkitmundra/crunchyroll-ubuntu-desktop?style=flat&color=F47521&label=Stars&cacheSeconds=3600" alt="Stars" /></a>
   <a href="https://snapcraft.io/crunchyroll-ubuntu-desktop"><img src="https://img.shields.io/github/v/release/pulkitmundra/crunchyroll-ubuntu-desktop?style=flat&logo=snapcraft&logoColor=white&label=Snap_Store&color=82BEA0&cacheSeconds=3600" alt="Snap Store Release" /></a>
   <a href="https://pulkit-mundra-portfolio.vercel.app/projects/crunchyroll-ubuntu-desktop"><img src="https://img.shields.io/badge/Case%20Study-Portfolio-10B981?style=flat&logo=vercel&logoColor=white" alt="Case Study" /></a>
-  <img src="https://img.shields.io/badge/Electron-Widevine%20DRM-47848F?style=flat&logo=electron&logoColor=white" alt="Electron Widevine" />
+  <img src="https://img.shields.io/badge/Widevine%20DRM-1080p%20Playback-2563EB?style=flat" alt="Widevine DRM" />
   <img src="https://img.shields.io/badge/Ubuntu-X11%20%2F%20Wayland-E95420?style=flat&logo=ubuntu&logoColor=white" alt="Ubuntu" /><br>
-  *Enhanced Linux desktop & HTPC client for Crunchyroll on Ubuntu, Debian, Fedora, Arch Linux & Steam Deck powered by Castlabs Electron (Widevine DRM).* - [**Snap Store ->**](https://snapcraft.io/crunchyroll-ubuntu-desktop) | [**Case Study ->**](https://pulkit-mundra-portfolio.vercel.app/projects/crunchyroll-ubuntu-desktop)
+  *Enhanced Linux desktop & HTPC client for Crunchyroll on Ubuntu, Debian, Fedora, Arch Linux & Steam Deck, built via AI-assisted desktop engineering on Castlabs Widevine DRM.* - [**Snap Store ->**](https://snapcraft.io/crunchyroll-ubuntu-desktop) | [**Case Study ->**](https://pulkit-mundra-portfolio.vercel.app/projects/crunchyroll-ubuntu-desktop)
   - **Smart Auto-PiP (`F9` / `F10`) & See-Through Player Translucency (`20%` - `100%`)**: Watch anime in a see-through window over your code editor or browser (with GNOME Wayland fullscreen bypass), or automatically shrink into a pinned `560x315` floating mini-player when switching focus (`Alt + Tab`).
   - **Player & Discovery Upgrades (`v2.3.1`)**: Standing Vertical Volume & Translucency Popover Sliders, In-Player Video Quality Selector (`Q`) with live `Auto 1080p` badge, Sleep Timer / Auto-Pause (`T`), Timeline Chapter Markers, `Ongoing`/`Completed` Airing Status + AniList countdowns, GNOME MPRIS media keys, HUD-free frame capture (`Ctrl+Shift+S`), season switcher, and custom Crunchylists.
 
@@ -119,19 +118,19 @@ $ whoami
   <img src="https://img.shields.io/badge/Models-All%20Galaxy%20Buds-1428A0?style=flat&logo=samsung&logoColor=white" alt="All Samsung Galaxy Buds" />
   <img src="https://img.shields.io/badge/GNOME%20Shell-45--48-4A86CF?style=flat&logo=gnome&logoColor=white" alt="GNOME Shell" />
   <img src="https://img.shields.io/badge/BlueZ%20D--Bus-PipeWire-0082FC?style=flat&logo=bluetooth&logoColor=white" alt="BlueZ PipeWire" /><br>
-  *Universal **GNOME Quick Settings** extension, GTK4/Libadwaita setup GUI & CLI Bluetooth multipoint switcher published on the official **GNOME Extensions Store** for all Samsung Galaxy Buds (`Buds3 Pro`, `Buds3`, `Buds2 Pro`, `Buds2`, `Buds Pro`, `Buds FE`, `Buds Live`, `Buds+`) on Ubuntu 24.04+ (GNOME 45-48).* - [**GNOME Extensions ->**](https://extensions.gnome.org/extension/11611/samsung-galaxy-buds-quick-settings-switcher/) | [**Case Study ->**](https://pulkit-mundra-portfolio.vercel.app/projects/galaxy-buds-ubuntu-switcher)
+  *Universal **GNOME Quick Settings** extension, GTK4/Libadwaita setup GUI & Bash CLI Bluetooth multipoint switcher published on the official **GNOME Extensions Store** for all Samsung Galaxy Buds (`Buds3 Pro`, `Buds3`, `Buds2 Pro`, `Buds2`, `Buds Pro`, `Buds FE`, `Buds Live`, `Buds+`) on Ubuntu 24.04+ (GNOME 45-48).* - [**GNOME Extensions ->**](https://extensions.gnome.org/extension/11611/samsung-galaxy-buds-quick-settings-switcher/) | [**Case Study ->**](https://pulkit-mundra-portfolio.vercel.app/projects/galaxy-buds-ubuntu-switcher)
   - Connects Classic `BR/EDR` profiles (`A2DP Sink`, `AVRCP`, `HFP`) over BlueZ D-Bus, displays live battery `%` in Quick Settings, and switches `A2DP` (Music) <-> `HFP` (Call + Mic) via PipeWire (`wpctl`).
-  - Instant bidirectional handoff between Ubuntu and Android via MacroDroid webhooks + native **GTK4 / Libadwaita Settings & Android Setup GUI** (`prefs.js` / `buds-settings`).
+  - Instant bidirectional handoff between Ubuntu and Android via MacroDroid webhooks + **GTK4 / Libadwaita Settings & Android Setup GUI** (`prefs.js` / `buds-settings`, built via Bash systems scripting + AI-assisted GNOME UI).
 
 - 📹 [**NVR Command Center (`nvr-command-center`)**](https://github.com/pulkitmundra/nvr-command-center)
   <a href="https://github.com/pulkitmundra/nvr-command-center"><img src="https://img.shields.io/github/stars/pulkitmundra/nvr-command-center?style=flat&color=10B981&label=Stars&cacheSeconds=3600" alt="Stars" /></a>
   <a href="https://snapcraft.io/nvr-command-center"><img src="https://img.shields.io/github/v/release/pulkitmundra/nvr-command-center?style=flat&logo=snapcraft&logoColor=white&label=Snap_Store&color=82BEA0&cacheSeconds=3600" alt="Snap Store Release" /></a>
   <a href="https://pulkit-mundra-portfolio.vercel.app/projects/nvr-command-center"><img src="https://img.shields.io/badge/Case%20Study-Portfolio-10B981?style=flat&logo=vercel&logoColor=white" alt="Case Study" /></a>
-  <img src="https://img.shields.io/badge/Rust-eframe%20%2F%20OpenGL-DEA584?style=flat&logo=rust&logoColor=black" alt="Rust OpenGL" />
+  <img src="https://img.shields.io/badge/Python%20Prototype-AI--Ported%20Binary-3776AB?style=flat&logo=python&logoColor=white" alt="Python Prototype AI-Ported Binary" />
   <img src="https://img.shields.io/badge/Cloud%20P2P%20%2B%20RTSP-Zero--Lag-007808?style=flat&logo=ffmpeg&logoColor=white" alt="Cloud P2P + RTSP" /><br>
-  *Ultra-low-latency GPU-accelerated **12+ camera NVR surveillance command center** built in **Native Rust (`eframe/egui` + OpenGL `glow`)** with built-in **Cloud P2P remote tunneling** (`~70 MB` RAM for 12 concurrent streams).* - [**Snap Store ->**](https://snapcraft.io/nvr-command-center) | [**Case Study ->**](https://pulkit-mundra-portfolio.vercel.app/projects/nvr-command-center)
-  - **Instant `< 0.9s` Parallel Startup & `< 80ms` Live Sync**: Spawns 12+ native OS worker threads with zero-probe FFmpeg demuxing (`-fpsprobesize 0`) and Linux kernel pipe `ioctl(FIONREAD)` burst draining (`F_SETPIPE_SZ`) to eliminate multi-second TCP socket lag and inter-camera drift.
-  - **Zero-Config Cloud P2P Remote Tunneling & GPU UV Zoom (`v2.1.1`)**: Native Rust Dahua/CP Plus/Amcrest Cloud P2P (`easy4ipcloud.com`) authenticated PTCP tunnel (`AES-256-OFB` + `PBKDF2-HMAC-SHA256`) that auto-switches when away from home Wi-Fi, plus `0.0%` CPU UV coordinate digital zoom/pan (`1x-5x`) and per-tile `SD <-> HD` & `Single <-> Grid` controls.
+  *Ultra-low-latency GPU-accelerated **12+ camera NVR surveillance command center** (`~70 MB` RAM for 12 concurrent streams), prototyped in **Python/Tkinter/OpenCV** and ported via **AI-assisted engineering** into a compiled OpenGL binary with built-in **Cloud P2P remote tunneling**.* - [**Snap Store ->**](https://snapcraft.io/nvr-command-center) | [**Case Study ->**](https://pulkit-mundra-portfolio.vercel.app/projects/nvr-command-center)
+  - **Instant `< 0.9s` Parallel Startup & `< 80ms` Live Sync**: Spawns 12+ parallel OS worker threads with zero-probe FFmpeg demuxing (`-fpsprobesize 0`) and Linux kernel pipe `ioctl(FIONREAD)` burst draining (`F_SETPIPE_SZ`) to eliminate multi-second TCP socket lag and inter-camera drift.
+  - **Zero-Config Cloud P2P Remote Tunneling & GPU UV Zoom (`v2.1.1`)**: Built-in Dahua/CP Plus/Amcrest Cloud P2P (`easy4ipcloud.com`) authenticated PTCP tunnel (`AES-256-OFB` + `PBKDF2-HMAC-SHA256`) that auto-switches when away from home Wi-Fi, plus `0.0%` CPU UV coordinate digital zoom/pan (`1x-5x`) and per-tile `SD <-> HD` & `Single <-> Grid` controls.
 
 </details>
 
@@ -146,7 +145,7 @@ $ whoami
   - Built an AI chatbot & operations automation framework in Django for [**CareBravo**](https://carebravo.com/) ([**Caryfy AI**](https://caryfy.ai/)), cutting home-care scheduling, caregiver onboarding, and billing task completion time by **~50%**.
   - Led the AI engineering team implementing localized LLMs, RAG knowledge systems, OCR document pipelines, and Tellus EVV + Stripe/WorldPay payment integrations.
 - 💳 **Senior Software Developer @ [Arcgate](https://www.arcgate.com/) - [Sila Money](https://www.silamoney.com/) & Fintech Platforms (2021 - 2024)**<br>
-  - Managed a 5-engineer fintech SDK & API team delivering **30+ banking, digital wallet, KYC/KYB, and ACH payment APIs** ([**Sila Money**](https://www.silamoney.com/), Plaid, Dwolla, First American) and publishing official open-source SDKs ([**sila-sdk-python**](https://github.com/Sila-Money/sila-sdk-python) / [**`silasdk` on PyPI**](https://pypi.org/project/silasdk/), Java, PHP, JS, .NET).
+  - Managed a 5-engineer fintech SDK & API team delivering **30+ banking, digital wallet, KYC/KYB, and ACH payment APIs** ([**Sila Money**](https://www.silamoney.com/), Plaid, Dwolla, First American), hands-on authoring and publishing the official Python SDK ([**sila-sdk-python**](https://github.com/Sila-Money/sila-sdk-python) / [**`silasdk` on PyPI**](https://pypi.org/project/silasdk/)) while leading cross-language SDK parity across Java, PHP, JS, and .NET.
 
 ➡️ [**View full experience & case studies on my Portfolio...**](https://pulkit-mundra-portfolio.vercel.app/#experience)
 </details>
@@ -166,7 +165,7 @@ $ whoami
 | **`75+` Stateful Tool Simulations** | Digital-twin tool-use & MCP environments (`Python`, `Pydantic v2`, `SQLModel/SQLite`) built for frontier LLM evaluation & training |
 | **`60->18` Specs / `-80%` Payloads** | Consolidated `@tool_spec` overlays & FD schema stripping cutting schema tokens by `~50-82%`, multi-turn tokens by `~32%`, and preserving `~99%` solvability parity ([**Deep Dive ->**](https://pulkit-mundra-portfolio.vercel.app/engineering/ergonomic-mcp-schemas-88-percent-payload-reduction)) |
 | **`3` Published Linux Store Apps** | Shipped & maintained on the official **Snap Store** (`crunchyroll-ubuntu-desktop`, `nvr-command-center`) and **GNOME Extensions Store** (`galaxy-buds-ubuntu`) |
-| **`6+` Years Production Python & Distributed Systems** | `30+` regulated fintech banking/ACH payment APIs ([**Sila Money**](https://github.com/Sila-Money/sila-sdk-python) / [`silasdk`](https://pypi.org/project/silasdk/), `Plaid`, `Dwolla`), AI home-care operations ([**CareBravo**](https://carebravo.com/)), & enterprise `Django`/`Flask`/`Node.js` + `AWS` backends |
+| **`6+` Years Production Python & Distributed Systems** | `30+` regulated fintech banking/ACH payment APIs ([**Sila Money**](https://github.com/Sila-Money/sila-sdk-python) / [`silasdk`](https://pypi.org/project/silasdk/), `Plaid`, `Dwolla`), AI home-care operations ([**CareBravo**](https://carebravo.com/)), & enterprise `Django`/`Flask`/`FastAPI` + `PostgreSQL`/`AWS` backends |
 
 </details>
 
@@ -182,7 +181,7 @@ user@pulkitmundra:~$ cat /etc/system-release
 Name:          Pulkit Mundra
 Role:          Senior Software Developer (SDE-3)
 Tagline:       Shipping reliable AI automations and fintech backends
-Core Stack:    Python (Django, Flask, GraphQL), Node.js, Agentic AI (LLMs, RAG, MCP Servers), Linux Desktop (Rust, Electron, GNOME, BlueZ, PipeWire), PostgreSQL, MongoDB, Redis, AWS
+Core Stack:    Python (Django, Flask, FastAPI, Pydantic v2, GraphQL), Agentic AI (LLMs, RAG, MCP Servers, Google ADK), Linux Systems (FFmpeg/RTSP, Wayland, BlueZ, PipeWire, Snapcraft), PostgreSQL, SQLite, MongoDB, Redis, AWS
 Location:      Udaipur, India (Remote / Client-facing)
 Portfolio:     https://pulkit-mundra-portfolio.vercel.app
 ```
