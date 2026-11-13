@@ -155,7 +155,7 @@ $ whoami
 
 <p align="center">
   <a href="https://pulkit-mundra-portfolio.vercel.app/projects/agentic-mcp-service-simulations"><img src="https://img.shields.io/badge/Agentic_AI-75%2B_Stateful_Tool_Simulations-7C3AED?style=for-the-badge" alt="75+ Stateful Tool Simulations" /></a>&nbsp;
-  <a href="https://pulkit-mundra-portfolio.vercel.app/engineering/ergonomic-mcp-schemas-88-percent-payload-reduction"><img src="https://img.shields.io/badge/Tool_Ergonomics-60%E2%86%9218_Specs_%7C_--80%25_Payloads_%7C_~99%25_Parity-0EA5E9?style=for-the-badge" alt="60 to 18 Tool Specs, -80% Payloads, ~99% Solvability Parity" /></a>&nbsp;
+  <a href="https://pulkit-mundra-portfolio.vercel.app/engineering/ergonomic-mcp-schemas-80-percent-payload-reduction"><img src="https://img.shields.io/badge/Tool_Ergonomics-60%E2%86%9218_Specs_%7C_--80%25_Payloads_%7C_~99%25_Parity-0EA5E9?style=for-the-badge" alt="60 to 18 Tool Specs, -80% Payloads, ~99% Solvability Parity" /></a>&nbsp;
   <a href="https://pulkit-mundra-portfolio.vercel.app/projects"><img src="https://img.shields.io/badge/Linux_Store_Apps-3_Published_(Snap_%26_GNOME_Extensions)-10B981?style=for-the-badge" alt="3 Published Linux Store Apps on Snap Store and GNOME Extensions" /></a>&nbsp;
   <a href="https://pulkit-mundra-portfolio.vercel.app"><img src="https://img.shields.io/badge/Experience-6%2B_Years_Production_Python_%26_Distributed_Systems-3776AB?style=for-the-badge" alt="6+ Years Production Python and Distributed Systems" /></a>
 </p>
@@ -163,7 +163,7 @@ $ whoami
 | Metric | Production & Open-Source Impact |
 | :--- | :--- |
 | **`75+` Stateful Tool Simulations** | Digital-twin tool-use & MCP environments (`Python`, `Pydantic v2`, `SQLModel/SQLite`) built for frontier LLM evaluation & training |
-| **`60->18` Specs / `-80%` Payloads** | Consolidated `@tool_spec` overlays & FD schema stripping cutting schema tokens by `~50-82%`, multi-turn tokens by `~32%`, and preserving `~99%` solvability parity ([**Deep Dive ->**](https://pulkit-mundra-portfolio.vercel.app/engineering/ergonomic-mcp-schemas-88-percent-payload-reduction)) |
+| **`60->18` Specs / `-80%` Payloads** | Consolidated `@tool_spec` overlays & FD schema stripping cutting schema tokens by `~50-82%`, multi-turn tokens by `~32%`, and preserving `~99%` solvability parity ([**Deep Dive ->**](https://pulkit-mundra-portfolio.vercel.app/engineering/ergonomic-mcp-schemas-80-percent-payload-reduction)) |
 | **`3` Published Linux Store Apps** | Shipped & maintained on the official **Snap Store** (`crunchyroll-ubuntu-desktop`, `nvr-command-center`) and **GNOME Extensions Store** (`galaxy-buds-ubuntu`) |
 | **`6+` Years Production Python & Distributed Systems** | `30+` regulated fintech banking/ACH payment APIs ([**Sila Money**](https://github.com/Sila-Money/sila-sdk-python) / [`silasdk`](https://pypi.org/project/silasdk/), `Plaid`, `Dwolla`), AI home-care operations ([**CareBravo**](https://carebravo.com/)), & enterprise `Django`/`Flask`/`FastAPI` + `PostgreSQL`/`AWS` backends |
 
